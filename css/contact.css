@@ -1,0 +1,133 @@
+a{
+	font-family: "made soulmaze outline";
+	text-decoration: none;
+	color: #ffffff;
+	font-style: italic;
+}
+.contact{
+	font-family: "made soulmaze";
+	text-decoration: none;
+	color: #ffffff;	
+}
+.name{
+	font-family: "B Luna Piena Demo";
+	text-decoration: none;
+	color: #ffffff;	
+	font-size: 40px;
+	margin:0px 0px 0px 40px;	
+}
+.navigation{
+		margin:5px 0px 0px 15px;
+	    padding:5px 0px 0px 15px;
+}
+.navigation2{
+		display: inline;
+	margin:0px 0px 0px 700px;
+	font-size: 22px;
+	word-spacing: 20px;
+}
+.heading{
+	font-family:  Josefin Sans;
+    color: #FEFEFF;
+    font-weight: 10;
+    font-size: 40px;
+	margin:0px 0px 0px 500px;	
+}
+.subhead{
+	font-family: Josefin Sans;
+	font-weight: 10;
+    color: #FEFEFF;
+    font-size: 30px;
+	margin:0px 0px 0px 500px;
+	opacity: .4;		
+}
+label{
+	font-family: Josefin Sans;
+	color: #FEFEFF;
+	font-weight: 10;
+	font-size: 25px;
+}
+input, textarea{
+	width: 50%;
+	border-radius: 8px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-family: Josefin Sans;
+    box-decoration-break: none;
+    border: none;
+}
+textarea {
+	height:200px;
+	margin-bottom:20px;
+}
+
+form{
+	margin:0px 0px 0px 500px;
+}
+input[type=text]{
+     width: 24.8%;
+     padding: 12px 20px;
+     box-sizing: border-box;
+}
+input[type=submit] {
+  font-size: 110%;	
+  background-color: #2CA8C7;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 13.5%;
+  margin:0px 0px 0px 350px;
+  transform: scale(1);
+}
+input[type=submit]:hover {
+  background-color: deepskyblue;
+  transform: scale(1.040);
+}
+
+.footer-flex {
+	font-family: Josefin Sans;
+	margin-top:50px;
+	padding:15px 0;
+	color:white;
+	display:flex;
+	justify-content: space-around;
+	background:#4b4c4d;
+}
+
+.footer-ele h4 {
+	font-weight: 400;
+	text-align: center;
+	font-size:18px;
+	margin-bottom:10px;
+}
+
+.icons-flex {
+	width:110px;
+	display:flex;
+	justify-content: space-between;
+	margin:20px 0;
+}
+
+i {
+	background:white;
+	color:black;
+	padding:7px;
+	border-radius: 50%;
+}
+
+.footer-ele-flex {
+	display:flex;
+	align-items: center;
+	gap:10px;
+}
+
+
+  .mail{
+	font-family:  Josefin Sans ;
+	text-decoration: underline;
+  } 
+

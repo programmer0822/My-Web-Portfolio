@@ -1,0 +1,102 @@
+a{
+	font-family: "made soulmaze outline";
+	text-decoration: none;
+	color: #ffffff;
+
+}
+
+.name{
+	font-family: "B Luna Piena Demo";
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 40px;
+	font-style:italic;
+	margin:0px 0px 0px 40px;		
+}
+
+.myname{
+	font-family: MonumentExtended-Regular;
+	background-color: yellow;
+	text-decoration: none;
+	color: #0f0f0f;
+}
+.navigation{
+		margin:5px 0px 0px 15px;
+	    padding:5px 0px 0px 15px;
+
+}
+.navigation2{
+		display: inline;
+	margin:0px 0px 0px 700px;
+	font-size: 22px;
+    word-spacing: 20px;
+
+}
+.home{
+	font-family: "made soulmaze";
+	text-decoration: none;
+	color: #ffffff;
+	font-style: italic;	
+}
+.about{
+	font-style: italic;
+}
+.work{
+    font-style:italic;
+}
+.contact{
+    font-style:italic;
+}
+.opening{
+	text-align: left;
+    font-family:MonumentExtended-Regular;
+    font-size: 400%;
+    color: #FFFEFE;
+    text-shadow: 0px 3px 6px #00000029;
+    margin: 100px 0px 0px 150px;
+}
+.arw-img{
+	width: 3.3%;
+	margin:0px 0px 80px 525px; 
+}
+.short{
+	font-family:  Josefin Sans;
+    color: #FEFEFF;
+	margin:0px 0px 0px 0px;
+	font-size: 170%; 
+	display: inline-block;
+}
+.uxui{
+	font-family:  Josefin Sans;
+    color: #FEFEFF;
+	margin:10px 0px 0px 10px;
+	font-size: 100%; 
+	display: inline-block;
+	padding: 5px;
+}
+.uxui:hover{
+	background-color: lightsalmon;
+}
+.graphic{
+	font-family:  Josefin Sans;
+    color: #FEFEFF;
+	margin:10px 0px 0px 10px;
+	font-size: 100%; 
+	display: inline-block;
+	padding: 5px;
+
+}
+.graphic:hover{
+	background-color: lightseagreen;
+}
+.web{
+	font-family:  Josefin Sans;
+    color: #FEFEFF;
+	margin:10px 0px 0px 10px;
+	font-size: 100%; 
+	display: inline-block;
+	padding: 5px;
+}
+.web:hover{
+	background-color: lightslategrey;
+}

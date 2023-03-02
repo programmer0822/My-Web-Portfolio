@@ -1,0 +1,143 @@
+
+a{
+	font-family: "made soulmaze outline";
+	text-decoration: none;
+	color: #ffffff;
+	font-style: italic;
+}
+.about{
+	font-family: "made soulmaze";
+	text-decoration: none;
+	color: #ffffff;	
+}
+.name{
+	font-family: "B Luna Piena Demo";
+	text-decoration: none;
+	color: #ffffff;	
+	font-size: 40px;
+	margin:0px 0px 0px 40px;	
+}
+.navigation{
+		margin:5px 0px 0px 15px;
+	    padding:5px 0px 0px 15px;
+}
+.navigation2{
+	display: inline;
+	margin:0px 0px 0px 700px;
+	font-size: 22px;
+	word-spacing: 20px;
+	
+}
+img{
+	width: 20%;
+	float: right;
+	margin: 50px;
+    box-shadow: 0px 3px 6px gray;
+    border-radius: 10px;
+}
+h2{
+    font-family: Josefin Sans;
+    color: #FEFEFF;
+    font-size: 200%;
+    display: inline-block;
+}
+h3{
+	font-family: Josefin Sans;
+    color: #FEFEFF;
+}
+.skills{
+	font-family: Josefin Sans;
+	font-style: normal;
+	padding: 10px;
+	background-color: white;
+	color: #4b4c4d;
+	border-radius: 20px;
+	margin: 7px;
+}
+.matter{
+	margin: 60px 150px;
+}
+.content{
+    font-family:  Josefin Sans;
+    font-style: normal;
+    font-size: 110%;
+    color: #FEFEFF;
+    justify-content: left;
+	line-height:1.4;
+	opacity: 75%;
+}
+.block{
+	display: inline-block;
+    padding: 1px 1px ;
+    vertical-align: top;
+	
+}
+.skillblock{
+	margin-left: 35%;
+	width: 100%;
+}
+
+hr.rule{
+	color:#FEFEFF;
+	width: 70%;
+	margin: 0rem 0rem 0rem 0rem;
+	border-radius: 2px;
+
+}
+hr.rulenew{
+	color:#FEFEFF;
+	width: 40%;
+	margin: 0rem 0rem 0rem 0rem;
+	border-radius: 2px;
+}
+.resume{	
+	font-family: Josefin Sans;
+	font-style: normal;
+    background-color: #2CA8C7;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+	display: inline-block;
+	
+}
+
+
+.footer-flex {
+	font-family: Josefin Sans;
+	margin-top:50px;
+	padding:15px 0;
+	color:white;
+	display:flex;
+	justify-content: space-around;
+	background:#4b4c4d;
+}
+
+.footer-ele h4 {
+	font-weight: 400;
+	text-align: center;
+	font-size:18px;
+	margin-bottom:10px;
+}
+
+.icons-flex {
+	width:110px;
+	display:flex;
+	justify-content: space-between;
+	margin:20px 0;
+}
+
+i {
+	background:white;
+	color:black;
+	padding:7px;
+	border-radius: 50%;
+}
+
+.footer-ele-flex {
+	display:flex;
+	align-items: center;
+	gap:10px;
+}
+
